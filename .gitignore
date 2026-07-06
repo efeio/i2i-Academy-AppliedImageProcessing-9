@@ -1,0 +1,17 @@
+# Document files (instructions and reports)
+*.docx
+*.pdf
+
+# Intermediate output steps (screenshots)
+step1_gray_blur.png
+step2_edges.png
+step3_contours.png
+step4_cropped_plate.png
+
+# Python environment & cache files
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+venv/
